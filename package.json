@@ -1,6 +1,6 @@
 {
   "name": "ExpressStruct",
-  "description": "Webkit Speech test app",
+  "description": "A structure to start with an Express APP",
   "version": "0.0.1",
   "private": true,
   "dependencies": {	
